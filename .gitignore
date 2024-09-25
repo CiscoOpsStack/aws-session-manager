@@ -1,6 +1,6 @@
-.terraform
+.terraform/
 *.tfstate*
 *.tfvars*
-.terraform.lock.hcl
+# .terraform.lock.hcl
 .DS_Store
 twistcli
